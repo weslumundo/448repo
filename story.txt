@@ -1,2 +1,9 @@
 There Once Was A Man Named Gold Roger and Before He Hung On The Gallows He Said Find My Treasure I Left It All In One Place
+<<<<<<< HEAD
 Whoever Discovers My Treasure Shall Be King of The Pirates
+||||||| a08ad90
+Whoever Sees My Treasure Shall Be King of The Pirates
+=======
+Whoever Sees My Treasure Shall Be King of The Pirates
+Then The Pirate King used a cool cyborg arm and killed everyone
+>>>>>>> experiment
