@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 int x = 70;
+||||||| ad38e40
+int x = 10;
+=======
+int x = 10;
+>>>>>>> expermement
